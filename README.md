@@ -1,4 +1,4 @@
-Welcome to my Github repositories. 
+**Welcome to my Github repositories. **
 
 This is a ML Intro course given by Kaggle. 
 
@@ -9,5 +9,5 @@ Let me know if you have any questions.
 
 Enjoy!
 
-Jefferson Santos
-Data Scientist, Systems and Software Engineer
+**Jefferson Santos
+Data Scientist, Systems and Software Engineer**
