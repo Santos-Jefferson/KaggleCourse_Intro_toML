@@ -9,6 +9,6 @@ Let me know if you have any questions.
 
 Enjoy!
 
-Jefferson Santos
 
+Jefferson Santos
 Data Scientist, Systems and Software Engineer
